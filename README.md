@@ -1,2 +1,2 @@
 # Robot-arms
-connecting 6 servo motors &amp; programming it to 3 movement with an arduino // components : 6 servo motors, arduino UNO R3
+connecting 6 servo motors &amp; programming it to 3 movements using arduino // components : 6 servo motors, arduino UNO R3
